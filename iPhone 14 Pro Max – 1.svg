@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="430" height="1591" viewBox="0 0 430 1591">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 1766 1075">
+      <image width="1766" height="1075" xlink:href="iPhone%2014%20Pro%20Max%20-%201-image.png"/>
+    </pattern>
+    <pattern id="pattern-3" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 1920 1080">
+      <image width="1920" height="1080" xlink:href="../%D0%9B%D0%B8%D1%86%D0%BE.png"/>
+    </pattern>
+    <pattern id="pattern-4" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 1920 1080">
+      <image width="1920" height="1080" xlink:href="../Alexandra%20png%201.png"/>
+    </pattern>
+    <filter id="Прямоугольник_16" x="32" y="870" width="367" height="275" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern-5" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 50 50">
+      <image width="50" height="50" xlink:href="../../../Downloads/icons8-3ds-max-50.png"/>
+    </pattern>
+    <pattern id="pattern-6" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 50 50">
+      <image width="50" height="50" xlink:href="../../../Downloads/icons8-coreldraw-50.png"/>
+    </pattern>
+    <filter id="Прямоугольник_19" x="32" y="1178" width="367" height="275" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern-7" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 67 67">
+      <image width="67" height="67" xlink:href="../../../Downloads/icons8-language-67.png"/>
+    </pattern>
+    <filter id="Прямоугольник_15" x="32" y="515" width="367" height="275" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern-8" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 50 50">
+      <image width="50" height="50" xlink:href="../../../Downloads/icons8-%D0%BA%D0%BE%D1%84%D0%B5-%D1%81-%D1%81%D0%BE%D0%B1%D0%BE%D0%B9-50.png"/>
+    </pattern>
+    <clipPath id="clip-iPhone_14_Pro_Max_1">
+      <rect width="430" height="1591"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_14_Pro_Max_1" data-name="iPhone 14 Pro Max – 1" clip-path="url(#clip-iPhone_14_Pro_Max_1)">
+    <rect width="430" height="1591" fill="#fff"/>
+    <rect id="Слой_1" data-name="Слой 1" width="966" height="589" transform="translate(510 25) rotate(90)" fill="url(#pattern)"/>
+    <rect id="Слой_1-2" data-name="Слой 1" width="966" height="589" transform="translate(510 895) rotate(90)" fill="url(#pattern)"/>
+    <rect id="Лицо" width="367" height="206" transform="translate(78 63)" fill="url(#pattern-3)"/>
+    <rect id="Alexandra_png_1" data-name="Alexandra png 1" width="270" height="152" transform="translate(49 90)" fill="url(#pattern-4)"/>
+    <g id="Сгруппировать_18" data-name="Сгруппировать 18" transform="translate(-2032 1808)">
+      <rect id="Прямоугольник_17" data-name="Прямоугольник 17" width="338" height="215" transform="translate(2084 -1539)" fill="#fff"/>
+      <text id="Графический_дизайнер" data-name="Графический дизайнер" transform="translate(2156 -1428)" fill="#010000" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Графический</tspan><tspan y="0" font-family="Humanist521BT-Bold, Humanst521 BT"> </tspan><tspan y="0">дизайнер</tspan></text>
+      <text id="Воплощу_любые_Ваши_идеи_в_жизнь_" data-name="Воплощу любые Ваши 
+идеи в жизнь !" transform="translate(2244 -1386)" fill="#010000" font-size="21" font-family="SegoeUI, Segoe UI"><tspan x="-110.537" y="0">Воплощу</tspan><tspan y="0" font-family="Humanist521BT-Roman, Humanst521 BT"> </tspan><tspan y="0">любые</tspan><tspan y="0" font-family="Humanist521BT-Roman, Humanst521 BT"> </tspan><tspan y="0">Ваши</tspan><tspan y="0" font-family="Humanist521BT-Roman, Humanst521 BT"> </tspan><tspan x="-69.547" y="21">идеи</tspan><tspan y="21" font-family="Humanist521BT-Roman, Humanst521 BT"> </tspan><tspan y="21">в</tspan><tspan y="21" font-family="Humanist521BT-Roman, Humanst521 BT"> </tspan><tspan y="21">жизнь</tspan><tspan y="21" xml:space="preserve" font-family="Humanist521BT-Roman, Humanst521 BT"> !</tspan></text>
+      <text id="Я_Александра_" data-name="Я Александра ! 
+
+" transform="translate(2243.822 -1469.077)" fill="#030000" font-size="29" font-family="SegoeUI-Light, Segoe UI" font-weight="300"><tspan x="-96.353" y="0">Я</tspan><tspan y="0" font-family="Humanist521BT-Light, Humanst521 Lt BT"> </tspan><tspan y="0">Александра</tspan><tspan y="0" xml:space="preserve" font-family="Humanist521BT-Light, Humanst521 Lt BT"> ! </tspan><tspan font-size="23" font-family="Humanist521BT-Light, Humanst521 Lt BT"><tspan x="0" y="41"></tspan><tspan x="0" y="82"></tspan></tspan></text>
+    </g>
+    <g id="Сгруппировать_20" data-name="Сгруппировать 20" transform="translate(-1383 1880.818)">
+      <g transform="matrix(1, 0, 0, 1, 1383, -1880.82)" filter="url(#Прямоугольник_16)">
+        <rect id="Прямоугольник_16-2" data-name="Прямоугольник 16" width="349" height="257" transform="translate(41 876)" fill="rgba(255,255,255,0.63)"/>
+      </g>
+      <text id="Работаю_в_программах:" data-name="Работаю в программах:" transform="translate(1486 -974.818)" fill="#010000" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Работаю</tspan><tspan y="0" font-family="Humanist521BT-Bold, Humanst521 BT"> </tspan><tspan y="0">в</tspan><tspan y="0" font-family="Humanist521BT-Bold, Humanst521 BT"> </tspan><tspan y="0">программах</tspan><tspan y="0" font-family="Humanist521BT-Bold, Humanst521 BT">:</tspan></text>
+      <text id="Adobe_Photoshop" data-name="Adobe Photoshop" transform="translate(1535 -946.818)" fill="#010000" font-size="18" font-family="Humanist521BT-Roman, Humanst521 BT"><tspan x="0" y="0">Adobe Photoshop</tspan></text>
+      <text id="Adobe_Illustrator" data-name="Adobe Illustrator" transform="translate(1535 -921.818)" fill="#010000" font-size="18" font-family="Humanist521BT-Roman, Humanst521 BT"><tspan x="0" y="0">Adobe Illustrator</tspan></text>
+      <text id="Adobe_After_Effects" data-name="Adobe After Effects" transform="translate(1533 -895.818)" fill="#010000" font-size="18" font-family="Humanist521BT-Roman, Humanst521 BT"><tspan x="0" y="0">Adobe After Effects</tspan></text>
+      <text id="Adobe_Indesign" data-name="Adobe Indesign" transform="translate(1535 -870.818)" fill="#010000" font-size="18" font-family="Humanist521BT-Roman, Humanst521 BT"><tspan x="0" y="0">Adobe Indesign</tspan></text>
+      <text id="Adobe_XD" data-name="Adobe XD" transform="translate(1533 -844.818)" fill="#010000" font-size="19" font-family="Humanist521BT-Roman, Humanst521 BT"><tspan x="0" y="0">Adobe XD</tspan></text>
+      <text id="Blender" transform="translate(1535 -794.818)" fill="#010000" font-size="19" font-family="Humanist521BT-Roman, Humanst521 BT"><tspan x="0" y="0">Blender</tspan></text>
+      <text id="_3DS_Max" data-name="3DS Max" transform="translate(1534 -771.818)" fill="#010000" font-size="18" font-family="Humanist521BT-Roman, Humanst521 BT"><tspan x="0" y="0">3DS Max</tspan></text>
+      <text id="CorelDraw" transform="translate(1534 -820.818)" fill="#010000" font-size="18" font-family="Humanist521BT-Roman, Humanst521 BT"><tspan x="0" y="0">CorelDraw</tspan></text>
+      <image id="icons8-adobe-photoshop-50" width="24" height="24" transform="translate(1501 -962.818)" xlink:href="../../../Downloads/icons8-adobe-photoshop-50.png"/>
+      <image id="icons8-adobe-illustrator-50" width="24" height="24" transform="translate(1501 -937.818)" xlink:href="../../../Downloads/icons8-adobe-illustrator-50.png"/>
+      <image id="icons8-adobe-after-effects-50" width="24" height="24" transform="translate(1501 -912.818)" xlink:href="../../../Downloads/icons8-adobe-after-effects-50.png"/>
+      <image id="icons8-adobe-indesign-50" width="24" height="24" transform="translate(1501 -888.818)" xlink:href="../../../Downloads/icons8-adobe-indesign-50.png"/>
+      <image id="icons8-adobe-xd-50" width="24" height="24" transform="translate(1501 -863.818)" xlink:href="../../../Downloads/icons8-adobe-xd-50.png"/>
+      <image id="icons8-blender-3d-32" width="21" height="21" transform="translate(1502 -810.818)" xlink:href="../../../Downloads/icons8-blender-3d-32.png"/>
+      <rect id="icons8-3ds-max-50" width="17" height="18" transform="translate(1506 -785.818)" fill="url(#pattern-5)"/>
+      <rect id="icons8-coreldraw-50" width="20" height="20" rx="10" transform="translate(1503 -835.818)" fill="url(#pattern-6)"/>
+      <g id="Сгруппировать_26" data-name="Сгруппировать 26" transform="translate(-1934 675.182)">
+        <g transform="matrix(1, 0, 0, 1, 3317, -2556)" filter="url(#Прямоугольник_19)">
+          <rect id="Прямоугольник_19-2" data-name="Прямоугольник 19" width="349" height="257" transform="translate(41 1184)" fill="rgba(255,255,255,0.63)"/>
+        </g>
+        <text id="Обо_мне_:" data-name="Обо мне :" transform="translate(3486 -1332)" fill="#010000" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Обо</tspan><tspan y="0" font-family="Humanist521BT-Bold, Humanst521 BT"> </tspan><tspan y="0">мне</tspan><tspan y="0" xml:space="preserve" font-family="Humanist521BT-Bold, Humanst521 BT"> :</tspan></text>
+        <text id="Образование:_Международный_Университет_Астана_." data-name="Образование:
+ 
+Международный Университет 
+Астана ." transform="translate(3530 -1295)" fill="#010000" font-size="18" font-family="SegoeUI-Italic, Segoe UI" font-style="italic"><tspan x="-56.54" y="0">Образование</tspan><tspan y="0" font-family="Humanist521BT-Italic, Humanst521 BT">:</tspan><tspan font-family="Humanist521BT-Italic, Humanst521 BT"><tspan x="-2.268" y="19"> </tspan></tspan><tspan font-family="SegoeUI, Segoe UI" font-style="normal"><tspan x="-127.156" y="38">Международный</tspan><tspan y="38" font-family="Humanist521BT-Roman, Humanst521 BT"> </tspan><tspan y="38">Университет</tspan><tspan y="38" font-family="Humanist521BT-Roman, Humanst521 BT"> </tspan><tspan x="-32.542" y="57">Астана</tspan><tspan y="57" xml:space="preserve" font-family="Humanist521BT-Roman, Humanst521 BT"> .</tspan></tspan></text>
+        <text id="Языки:_Русский_English" data-name="Языки:
+
+  Русский            English" transform="translate(3530 -1197)" fill="#010000" font-size="18" font-family="SegoeUI-Italic, Segoe UI" font-style="italic"><tspan x="-27.294" y="0">Языки</tspan><tspan y="0" font-family="Humanist521BT-Italic, Humanst521 BT">:</tspan><tspan font-family="Humanist521BT-Italic, Humanst521 BT"><tspan x="0" y="19"></tspan></tspan><tspan font-family="Humanist521BT-Roman, Humanst521 BT" font-style="normal"><tspan x="-89.486" y="38" xml:space="preserve">  </tspan><tspan y="38" font-family="SegoeUI, Segoe UI">Русский</tspan><tspan y="38" xml:space="preserve">            English</tspan></tspan></text>
+        <rect id="icons8-language-67" width="27" height="26" transform="translate(3418 -1178)" fill="url(#pattern-7)"/>
+        <image id="icons8-en-67" width="25" height="25" transform="translate(3540 -1178)" xlink:href="../../../Downloads/icons8-en-67.png"/>
+      </g>
+    </g>
+    <g id="Сгруппировать_23" data-name="Сгруппировать 23" transform="translate(-1417 1517)">
+      <rect id="Прямоугольник_5" data-name="Прямоугольник 5" width="152" height="38" rx="19" transform="translate(1556 -699)"/>
+      <path id="Прямоугольник_5_-_Рамка" data-name="Прямоугольник 5 - Рамка" d="M19,1A18,18,0,0,0,6.272,31.728,17.882,17.882,0,0,0,19,37H133A18,18,0,0,0,145.728,6.272,17.882,17.882,0,0,0,133,1H19m0-1H133a19,19,0,0,1,0,38H19A19,19,0,0,1,19,0Z" transform="translate(1556 -699)" fill="#707070"/>
+      <text id="Мое_портфолио" data-name="Мое портфолио" transform="translate(1567 -675)" fill="#fff" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Мое</tspan><tspan y="0" font-family="Humanist521BT-Bold, Humanst521 BT"> </tspan><tspan y="0">портфолио</tspan></text>
+    </g>
+    <g id="Сгруппировать_22" data-name="Сгруппировать 22" transform="translate(-1080 1372)">
+      <rect id="Прямоугольник_4" data-name="Прямоугольник 4" width="119" height="38" rx="19" transform="translate(1091 -554)"/>
+      <path id="Прямоугольник_4_-_Рамка" data-name="Прямоугольник 4 - Рамка" d="M19,1A18,18,0,0,0,6.272,31.728,17.882,17.882,0,0,0,19,37h81A18,18,0,0,0,112.728,6.272,17.882,17.882,0,0,0,100,1H19m0-1h81a19,19,0,0,1,0,38H19A19,19,0,0,1,19,0Z" transform="translate(1091 -554)" fill="#707070"/>
+      <text id="WhatsApp" transform="translate(1112 -532)" fill="#fff" font-size="16" font-family="Humanist521BT-Bold, Humanst521 BT" font-weight="700"><tspan x="0" y="0">WhatsApp</tspan></text>
+    </g>
+    <g id="Сгруппировать_21" data-name="Сгруппировать 21" transform="translate(-1298 1372)">
+      <g id="Компонент_2_2" data-name="Компонент 2 – 2" transform="translate(1598 -554)">
+        <g id="Прямоугольник_6" data-name="Прямоугольник 6" stroke="#707070" stroke-width="1">
+          <rect width="119" height="38" rx="19" stroke="none"/>
+          <rect x="0.5" y="0.5" width="118" height="37" rx="18.5" fill="none"/>
+        </g>
+      </g>
+      <text id="E-MAIL" transform="translate(1629 -530)" fill="#fff" font-size="16" font-family="Humanist521BT-Bold, Humanst521 BT" font-weight="700"><tspan x="0" y="0">E-MAIL</tspan></text>
+    </g>
+    <g id="Сгруппировать_27" data-name="Сгруппировать 27" transform="translate(-3326 2536)">
+      <g transform="matrix(1, 0, 0, 1, 3326, -2536)" filter="url(#Прямоугольник_15)">
+        <rect id="Прямоугольник_15-2" data-name="Прямоугольник 15" width="349" height="257" transform="translate(41 521)" fill="rgba(255,255,255,0.63)"/>
+      </g>
+      <text id="Мои_навыки:" data-name="Мои навыки:" transform="translate(3482 -1970)" fill="#010000" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Мои</tspan><tspan y="0" font-family="Humanist521BT-Bold, Humanst521 BT"> </tspan><tspan y="0">навыки</tspan><tspan y="0" font-family="Humanist521BT-Bold, Humanst521 BT">:</tspan></text>
+      <text id="Иллюстрация" transform="translate(3493 -1933)" fill="#010000" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Иллюстрация</tspan></text>
+      <text id="Брендинг" transform="translate(3493 -1897)" fill="#010000" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Брендинг</tspan></text>
+      <text id="Полиграфия" transform="translate(3493 -1862)" fill="#010000" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Полиграфия</tspan></text>
+      <text id="_3D_Графика" data-name="3D Графика" transform="translate(3493 -1827)" fill="#010000" font-size="18" font-family="Humanist521BT-Roman, Humanst521 BT"><tspan x="0" y="0">3D </tspan><tspan y="0" font-family="SegoeUI, Segoe UI">Графика</tspan></text>
+      <text id="_3D_Визуализация_" data-name="3D Визуализация " transform="translate(3493 -1791)" fill="#010000" font-size="18" font-family="Humanist521BT-Roman, Humanst521 BT"><tspan x="0" y="0">3D </tspan><tspan y="0" font-family="SegoeUI, Segoe UI">Визуализация</tspan><tspan y="0"> </tspan></text>
+      <image id="icons8-иллюстратор-30" width="20" height="20" transform="translate(3461 -1947)" xlink:href="../../../Downloads/icons8-%D0%B8%D0%BB%D0%BB%D1%8E%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80-30.png"/>
+      <image id="icons8-брендинг-50" width="24" height="24" transform="translate(3460 -1914)" xlink:href="../../../Downloads/icons8-%D0%B1%D1%80%D0%B5%D0%BD%D0%B4%D0%B8%D0%BD%D0%B3-50.png"/>
+      <image id="icons8-буклет-50" width="19" height="19" transform="translate(3463 -1877)" xlink:href="../../../Downloads/icons8-%D0%B1%D1%83%D0%BA%D0%BB%D0%B5%D1%82-50.png"/>
+      <image id="icons8-3d-24" width="21" height="21" transform="translate(3462 -1843)" xlink:href="../../../Downloads/icons8-3d-24.png"/>
+      <rect id="icons8-кофе-с-собой-50" width="24" height="25" transform="translate(3461 -1810)" fill="url(#pattern-8)"/>
+    </g>
+  </g>
+</svg>
